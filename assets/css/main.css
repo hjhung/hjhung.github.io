@@ -1441,8 +1441,9 @@
 					#me header > p {
 						position: absolute;
 						left: 0;
+						right: 1em;
 						top: 52.5%;
-						font-size: 1.5em;
+						font-size: 1.4em;
 						letter-spacing: -0.015em;
 						margin-top: 0;
 					}
