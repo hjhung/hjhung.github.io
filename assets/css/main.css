@@ -1,5 +1,11 @@
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,300italic,400italic");
 @import url("font-awesome.min.css");
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700");
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@300;400;500;700");
+@import url("https://fonts.googleapis.com/css2?family=Iansui");
+
+
+
 
 /*
 	Astral by HTML5 UP
@@ -777,7 +783,7 @@
 		background-image: url("images/overlay.png"), url("images/bg.jpg");
 		background-repeat: repeat, no-repeat;
 		background-size: auto, 100% 100%;
-		font-family: 'Source Sans Pro', sans-serif;
+		font-family: 'Inter', 'Noto Sans TC', 'Source Sans Pro', sans-serif;
 		font-weight: 300;
 		color: #363636;
 	}
@@ -794,7 +800,7 @@
 		}
 
 	input, textarea, select {
-		font-family: 'Source Sans Pro', sans-serif;
+		font-family: 'Inter', 'Noto Sans TC', 'Source Sans Pro', sans-serif;
 		font-weight: 300;
 		color: #363636;
 	}
@@ -802,11 +808,13 @@
 	h1{
 		font-weight: 400;
 		color: #111111;
+		font-family: 'Iansui', 'Source Sans Pro', sans-serif;
 	}
 	
 	h2, h3, h4, h5, h6 {
 		font-weight: 400;
-		color: #4d343c;
+		color: #5f414b;
+		font-family: 'Iansui', 'Source Sans Pro', sans-serif;
 	}
 	
 	strong, b{
